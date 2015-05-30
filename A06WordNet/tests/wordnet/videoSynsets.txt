@@ -1,0 +1,28 @@
+0,juvenile juvenile_person
+1,young_person youth younker sping_chicken
+2,slip
+3,schoolchild school-age_child pupil
+4,puppy pup
+5,hobbledehoy
+6,blade
+7,preteen preteenager
+8,ingenue
+9,child kid youngster minor shaver nipper small_fry tiddler tike tyke fry nestling
+10,waif street_child
+11,urchin
+12,toddler yearling tot bambino
+13,sprog
+14,silly
+15,adolescent stripling teenager teen
+16,young_buck young_man
+17,rocker
+18,punk_rocker punk
+19,pachuco
+20,mod
+21,punk_rock punk
+22,rock_'n'_roll rock'n'roll rock-and-roll rock_and_roll rock rock_music
+23,popular_music popular_music_genre
+24,urchin
+25,echinoderm
+26,Frankie_the_urchin
+27,entity
