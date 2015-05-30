@@ -77,3 +77,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Still include algs4 files
+!algs4-package.jar
+!stdlib-package.jar
